@@ -21,6 +21,7 @@ all stages of Android development process.
 I will bring to your company my years of experience and my drive for
 results and positive outcomes; I am prepared for the next challenge in
 my career and look forward to hearing from you.
+
 Skills: JAVA/FLUTTER/DART/ANDROID
 
 - 🔭 I’m currently working on Shipment Delivery System 
@@ -39,3 +40,10 @@ Skills: JAVA/FLUTTER/DART/ANDROID
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faysalneowaz)  
 
 ![Profile views](https://gpvc.arturio.dev/faysalneowaz)  
+
+
+<a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
