@@ -1,23 +1,48 @@
-<h3 align="center">A passionate Mobile App developer from Bangladesh</h3>
+### I am Faysal Neowaz
+![](https://wallpapers.com/images/high/motivational-quote-about-time-lqq23s93anauxx5f.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalneowaz&label=Profile%20views&color=0e75b6&style=flat" alt="faysalneowaz" /> </p>
+In 2020, I developed a flutter based mobile application named covid-19
+response 2020.Where, a user can get latest updated and precaution
+information regarding corona epidemic.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faysalneowaz" alt="faysalneowaz" /></a> </p>
+Below, I have mentioned some of my highlighted successful project experience:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/neowazfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neowazfaysal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faysalneowaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faysalneowaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10751641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10751641" height="30" width="40" /></a>
-<a href="https://fb.com/faysalneowaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faysalneowaz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code spec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code spec" height="30" width="40" /></a>
-</p>
+Android based authentication, validation, bill payment for
+my-cash users. I worked as android based solution Developer.
+Android Based Mobile apps for Rema Tea Company limited. My
+duties were including design and implement android base application
+for receiving attendance and work amount from Rema tea workers and connect api to a web service. Android based POS system for My Cash. My responsibilities on this project is when a user pay a bill instantly print the bill receipt from the server response. Android based ATM system for The Christian Co-Operative Credit Union Limited, Dhaka. Full system design and developed and deploy for the company
+Technologies and languages I master:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+1. Flutter, Android , XML, SOAP, JAVA , JSON, GIT Experience with
+all stages of Android development process.
+2. Gitlab, Github, Microsoft Azure for version control.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalneowaz&show_icons=true&locale=en&layout=compact" alt="faysalneowaz" /></p>
+I will bring to your company my years of experience and my drive for
+results and positive outcomes; I am prepared for the next challenge in
+my career and look forward to hearing from you.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faysalneowaz&show_icons=true&locale=en" alt="faysalneowaz" /></p>
+Skills: JAVA/FLUTTER/DART/ANDROID
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysalneowaz&" alt="faysalneowaz" /></p>
+- 🔭 I’m currently working on Shipment Delivery System 
+- 🌱 I’m currently learning Python Django 
+- 👯 I’m looking to collaborate on Youtube, GitHub 
+- 💬 Ask me about Android 
+- 📫 How to reach me: faysalneowaz@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faysalneowaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faysalneowaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/faysalneowaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/faysalneowaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/neowazfaysal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCY3_0JLZBFCSHeORK_I0bbg)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=faysalneowaz)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalneowaz)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faysalneowaz&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faysalneowaz)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faysalneowaz)  
+
+![Profile views](https://gpvc.arturio.dev/faysalneowaz)  
