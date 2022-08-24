@@ -45,7 +45,7 @@
 
 - 🏢 I'm currently working at **E-Desh Limited**
 
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+- ⚙️ I use daily: `.dart`, `.java`, `.yml`
 
 - 🌍 I'm mostly active within the **Flutter Community**
 
