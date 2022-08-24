@@ -1,52 +1,123 @@
-### I am Faysal Neowaz
 
+## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
-In 2020, I developed a flutter based mobile application named covid-19
-response 2020.Where, a user can get latest updated and precaution
-information regarding corona epidemic.
+  
 
-Below, I have mentioned some of my highlighted successful project experience:
+<p  align="left">
 
-Android based authentication, validation, bill payment for
-my-cash users. I worked as android based solution Developer.
-Android Based Mobile apps for Rema Tea Company limited. My
-duties were including design and implement android base application
-for receiving attendance and work amount from Rema tea workers and connect api to a web service. Android based POS system for My Cash. My responsibilities on this project is when a user pay a bill instantly print the bill receipt from the server response. Android based ATM system for The Christian Co-Operative Credit Union Limited, Dhaka. Full system design and developed and deploy for the company
-Technologies and languages I master:
+<a  href="https://leetcode.com/faysalneowaz/">
 
-1. Flutter, Android , XML, SOAP, JAVA , JSON, GIT Experience with
-all stages of Android development process.
-2. Gitlab, Github, Microsoft Azure for version control.
+<img  src="https://cp-logo.vercel.app/leetcode/faysalneowaz"  alt="Leet code rating" />
 
-I will bring to your company my years of experience and my drive for
-results and positive outcomes; I am prepared for the next challenge in
-my career and look forward to hearing from you.
-
-Skills: JAVA/FLUTTER/DART/ANDROID
-
-- 🔭 I’m currently working on Shipment Delivery System 
-- 🌱 I’m currently learning Python Django 
-- 👯 I’m looking to collaborate on Youtube, GitHub 
-- 💬 Ask me about Android 
-- 📫 How to reach me: faysalneowaz@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faysalneowaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faysalneowaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/faysalneowaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/faysalneowaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/neowazfaysal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCY3_0JLZBFCSHeORK_I0bbg)  
+</a>
 
 
 
-<!-- <a target="_blank" href="https://www.linkedin.com/in/faysalneowaz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto: faysalneowaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</a>
 
-<a target="_blank" href="https://twitter.com/neowazfaysal"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> -->
+<a  href="https://stackoverflow.com/users/10751641/faysalneowaz">
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<img  alt="Stack Overflow reputation"  src="https://img.shields.io/stackexchange/stackoverflow/r/10751641?color=orange&label=reputation&logo=stackoverflow">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faysalneowaz)  
+</a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faysalneowaz)  
+<a  href="https://github.com/faysalneowaz?tab=followers">
 
-![Profile views](https://gpvc.arturio.dev/faysalneowaz)  
+<img  alt="GitHub followers"  src="https://img.shields.io/github/followers/faysalneowaz?color=green&logo=github">
+
+</a>
+
+<a  href="https://github.com/faysalneowaz">
+
+<img  src="https://komarev.com/ghpvc/?username=faysalneowaz"  alt="visitors" />
+
+</a>
+
+  
+
+</p>
+
+  
+
+#### Bio
+
+  
+
+- 🏢 I'm currently working at **E-Desh Limited**
+
+- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+
+- 🌍 I'm mostly active within the **Flutter Community**
+
+- 🌱 Learning all about **DevOps**
+
+- 💬 Ping me about **Flutter**, **Java**, **Android**, **Dart**
+
+
+  
+
+#### Development Stuffs:
+
+  
+
+<b>⚡ Github Stats</b>
+
+<p  float="left">
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=faysalneowaz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalneowaz&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+</p>
+
+  
+
+<b>&#128200; Competitive Programming</b>
+
+<p  float="left">
+
+<img  height="273em"  src="https://leetcard.jacoblin.cool/faysalneowaz?theme=light&font=Karma&ext=contest" />
 
 
 
+</p>
+
+  
+
+
+
+  
+
+#### Connect With Me
+
+  
+
+<p  left="center">
+
+<a  href="https://twitter.com/faysalneowaz">
+
+<img  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height=25>
+
+</a>
+
+<a  href="https://www.linkedin.com/in/faysalneowaz/">
+
+<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height=25>
+
+</a>
+
+<a  href="https://www.facebook.com/faysalneowaz">
+
+<img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  height=25>
+
+</a>
+
+
+
+<a  href="mailto:faysalneowaz@gmail.com">
+
+<img  src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height=25>
+
+</a>
+
+</p>
